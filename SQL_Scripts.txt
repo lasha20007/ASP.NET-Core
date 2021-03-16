@@ -1,0 +1,9 @@
+1) Add-Migration "CreateCarTable"
+2) Update-Database
+3) Install-Package Newtonsoft.json
+4) Add-Migration "Add Photoname"
+5) Update-Database
+6) Add-Migration "CarSpecs"
+7) Update-Database
+8) Add-Migration "CarSpecsInCarTable"
+9) Update-Database
